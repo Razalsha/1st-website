@@ -1,0 +1,124 @@
+.navbar{
+    
+    padding-left: 50px;
+    display: flex;
+    background-color:rgb(242, 243, 245) 
+
+    
+}
+
+.logo{
+    font-size: 20px;
+}
+.list{
+    margin-left: 800px;
+    font-size: 30px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    
+}
+.home-image{
+    background-image: url(wood-sideboard-living-room-interior-with-copy-space.jpg);
+    height: 1200px;
+    background-size: cover;
+    align-items: center;
+    background-repeat: no-repeat;  
+    padding-top: 200px;
+}
+
+.heading{
+    font-size: 80px; color: aliceblue;
+    text-align: center; 
+}
+h5{
+    margin-top: 0px;
+    font-size: 30px;
+    text-align: center;
+}
+.input-box{
+    margin-left: 500px;
+    background-color: aliceblue;
+    border-radius:20px;
+    width: 800px;
+    height: 100px;
+    padding: 40px;
+}
+button{
+    background-color: rgb(236, 91, 7);
+    width: 100px;
+}
+.Intro{
+background-color: aliceblue;
+display: flex;
+padding-bottom: 30px;
+}
+.one{
+    
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.two{
+    padding-left: 130px;
+    padding-top: 30px;
+}
+
+.Timing{
+    background-image: url(./empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg);
+    height: 600px;
+    background-size: cover;
+    align-items: center;
+    background-repeat: no-repeat;  
+    padding-top: 400px;
+}
+.three{
+    background-color: aliceblue;
+    width: 700px;
+    height: 400px;
+    margin-left: 30px;
+    padding-top: 30px;
+    padding-left: 200px;
+    border-radius: 5%;
+    border-top: 1rem solid red;
+}
+.Desigin{
+    margin-left: 80px;
+}
+.shop{
+    display: flex;
+    margin-top: 50px;
+}
+.six{
+margin-left: 100px;
+
+}
+.five{
+    margin-left: 100px;
+}
+.four{
+    margin-left: 100px;
+}
+.last{
+    background-color: rgb(32, 32, 32);
+}
+.info{
+    display: flex;
+    padding: 200px;
+}
+.contact{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.store{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.history{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.end{
+    padding-bottom: 100px;
+    padding-left: 800px;
+    
+}
